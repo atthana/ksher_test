@@ -1,0 +1,11 @@
+{% extends 'payment/base.html'  %}
+
+{% block content %}
+
+<center>
+<a href="{% url 'wechat-page' %}"><button class="button" style="vertical-align:middle"><span>WeChat Pay </span></button></a>
+<a href="{% url 'alipay-page' %}"><button class="button" style="vertical-align:middle"><span>Alipay </span></button></a>
+<a href="{% url 'promptpay-page' %}"><button class="button" style="vertical-align:middle"><span>Promptpay </span></button></a>
+</center>
+
+{% endblock content %}

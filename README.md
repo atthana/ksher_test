@@ -13,5 +13,4 @@ How to run my code:
 7. Go to web browser to run website by "localhost:8000" or "127.0.0.1:8000".
 
 Simple page will look like below:
-  ![homepage](https://raw.githubusercontent.com/username/projectname/branch/path/to/homepage.JPG)
- 
+  ![homepage](https://raw.github.com/atthana/ksher_test/blob/master/homepage.JPG)

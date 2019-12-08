@@ -13,4 +13,4 @@ How to run my code:
 7. Go to web browser to run website by "localhost:8000" or "127.0.0.1:8000".
 
 Simple page will look like below:
-  
+  ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)

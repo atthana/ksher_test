@@ -14,3 +14,6 @@ How to run my code:
 
 Simple page will look like below:
   ![homepage](https://github.com/atthana/ksher_test/blob/master/homepage.JPG)
+  
+  And qrcode will be shown like this:
+   ![homepage](https://github.com/atthana/ksher_test/blob/master/wechat-qr.JPG)
